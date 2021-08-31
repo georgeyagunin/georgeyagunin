@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George Yagunioni. 
+- 👋 Hi, I’m Giorgio  Yagunioni. 
 - 👀 I’m interested in Python, Java Script.
 - 🌱 I’m currently learning React framework, Django.
 - 🌱 I'm currently into my project about spring restraints for piping engineers. I relizing it very soon.

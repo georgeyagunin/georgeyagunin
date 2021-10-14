@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React framework, Django.
 - 🌱 I'm currently into my project about spring restraints for piping engineers.
 - http://spring-constructor.ru/spring-page
-- 💞️ I’m looking to collaborate on my new project for studying foreign languages
+- 💞️ I’m looking to collaborate on my new language learning startup 
 - 📫 How to reach me yagunin@yandex.ru
 
 <!---

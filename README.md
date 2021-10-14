@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Giorgio  Yagunioni. 
 - 👀 I’m interested in Python, Java Script.
 - 🌱 I’m currently learning React framework, Django.
-- 🌱 I'm currently into my project about spring restraints for piping engineers. I relizing it very soon.
+- 🌱 I'm currently into my project about spring restraints for piping engineers.
+- http://spring-constructor.ru/spring-page
 - 💞️ I’m looking to collaborate on my new project for studying foreign languages
 - 📫 How to reach me yagunin@yandex.ru
 

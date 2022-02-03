@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giorgio  Yagunioni. 
-- 👀 I’m interested in Python, Java Script.
-- 🌱 I’m currently learning React framework, Django.
+- I live in Milano, Italy
+- 👀 I’m interested in Python, Java Script, React, PostgresDB, C#, PML, RaspberryPi, machine learning.
 - 🌱 I'm currently into my global language learning platform.
 
 - 📫 How to reach me yagunin@yandex.ru
